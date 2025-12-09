@@ -3,5 +3,7 @@
 @tailwind utilities;
 
 body {
-  background-color: #f9fafb;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}body {
+  background-color: red !important;
 }
